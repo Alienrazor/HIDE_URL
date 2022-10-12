@@ -37,7 +37,6 @@ Usage of HIDE_URL for attacking targets without prior mutual consent is illegal.
 
 
 <p align="center">
-
 <a href="https://github.com/Alienrazor"><img title="Author" src="https://img.shields.io/badge/Author-Alienrazor-red.svg?style=for-the-badge&logo=github"></a>
 
 </p>
