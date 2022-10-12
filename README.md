@@ -35,3 +35,10 @@ $ python HIDE.py
 
 Usage of HIDE_URL for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
+
+<p align="center">
+
+<a href="https://github.com/Alienrazor"><img title="Author" src="https://img.shields.io/badge/Author-Alienrazor-red.svg?style=for-the-badge&logo=github"></a>
+
+</p>
+
