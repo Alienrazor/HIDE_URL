@@ -9,7 +9,7 @@ $ cd HIDE_URL
 $ python HIDE.py
 ```
 
-![example](sample.ng)
+![example](sample)
 
 ## Usage
 
